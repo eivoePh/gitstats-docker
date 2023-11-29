@@ -1,0 +1,6 @@
+# tmp
+*.swp
+
+# misc
+.DS_Store
+*.pem
